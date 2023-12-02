@@ -45,3 +45,11 @@ def num_getter
     end
     strings3.sum()
 end
+
+
+# for i in 0...strings1.length() do
+#     strings1[i] = strings1[i].split("")
+#     strings1[i] = strings1[i].select{ |n| ["1","2","3","4","5","6","7","8","9","0"].include?(n) }
+#     strings1[i] = strings1[i][0]+strings1[i][-1]
+#     strings1[i] = strings1[i].to_i
+# end
